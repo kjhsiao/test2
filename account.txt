@@ -1,0 +1,2 @@
+"date"	"item"	"expense"	"category"
+"2017-11-03"	"grocery"	"2"	"eating"
